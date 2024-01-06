@@ -3,7 +3,9 @@
 The goal of this project is to develop a web-based Task Management System that allows users to create, update, and manage tasks. The system will have both frontend and backend components.
 
 Task Management System
-Note: this is a repository of Task Management System Backand & Frontend
+Note: this is a repository of Task Management System Backand & Frontend.
+Backend:- https://github.com/bnimesh3/ResoTech-Solutions-Assignment-Backend.git
+Frontens:-https://github.com/bnimesh3/ResoTech-Solutions-Assignment-Frontend.git
 
 Task Management system is a web application that enables users to create,store and manage Task Records
 It is a management system that helps to manage Tasks and also the company’s different task and project
